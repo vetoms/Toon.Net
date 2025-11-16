@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Toon.Net/ToonTest.Net.csproj" />
+  <Project Path="ToonNet/ToonNet.csproj" />
+</Solution>
