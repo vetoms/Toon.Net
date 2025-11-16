@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="Toon.Net/ToonTest.Net.csproj" />
-  <Project Path="ToonNet/ToonNet.csproj" />
+  <Project Path="ToonTest.Net/ToonTest.Net.csproj" />
+  <Project Path="Toon.Net/ToonNet.csproj" />
 </Solution>
